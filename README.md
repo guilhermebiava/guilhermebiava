@@ -5,10 +5,10 @@
 📚 Apaixonado por educação, inovação, tecnologia e transformação digital.
 
 ## 🚀 Minhas Skills
-- 💻 Linguagens: Python, JavaScript, HTML/CSS
-- 🔍 QA e Testes: Postman, Selenium, Testes Manuais e Automatizados
+- 💻 Linguagens: Python, JavaScript, HTML/CSS.
+- 🔍 QA e Testes: Postman, Selenium, Testes Manuais e Automatizados.
 - 🧠 IA & Dados: RAG (Retrieval-Augmented Generation), LLMs, PyTorch, TensorFlow, OpenCV e +
-- 🎨 UX: Figma, Acessibilidade, Copywriting
+- 🎨 UX: Prototipação, Figma, Acessibilidade.
 
 ## 📌 Projetos em Destaque
 
