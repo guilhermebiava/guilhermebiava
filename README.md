@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Guilherme!
 
 🎓 Estudante de Engenharia de Software  
-💼 Estagiário de QA na Radix | Pesquisador de UX e Inteligência Artificial
+💼 Estagiário de QA na Radix | Pesquisador de UX e Inteligência Artificial  
 📚 Apaixonado por educação, inovação, tecnologia e transformação digital.
 
 ## 🚀 Minhas Skills
